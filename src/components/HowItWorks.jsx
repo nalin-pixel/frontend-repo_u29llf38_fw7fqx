@@ -1,10 +1,10 @@
 import React from 'react';
-import { Audit, FileText, CheckCircle2 } from 'lucide-react';
+import { Search, FileText, CheckCircle2 } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const phases = [
   {
-    icon: Audit,
+    icon: Search,
     title: 'Phase 1: 10X Audit',
     text: 'Wo stehst du? Was blockiert 10X? Klarheit über Engpässe, Potenziale und Leverage-Punkte.'
   },
